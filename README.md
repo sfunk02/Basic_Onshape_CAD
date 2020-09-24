@@ -2,7 +2,7 @@
 
 ## Base - Castor
 
-image
+<img src="images/CastorBase.png" alt="Base" width="150" height="100">
 
 While completing this part I learned how to:
 * sketch
