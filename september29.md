@@ -2,7 +2,7 @@
 
 ## Mount - Castor
 
-<img src="images/CastorBase.png" alt="Base" width="150" height="100">
+<img src="images/castorMount.png" alt="Mount" width="150" height="100">
 
 While completing this part I learned how to:
 * extrude a new part
