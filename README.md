@@ -40,7 +40,7 @@ While completing this part I learned how to:
 
 ### Description
 
-The second assignment is to create the caster mount.
+The second assignment is to create the caster mount. The mount's dimensions are 120 mm x 120 mm and 8 mm thick. It has 4 symmetric holes in the corners, 10mm in diameter, 20mm from each side and another 25 mm circle in the center.
 
 ### Evidence
 [Castor Onshape Document](https://cvilleschools.onshape.com/documents/5aa391eca7bc241b822299c0/w/1baa1d3840cea60709942087/e/860635ff4679e140264c4e3d)
