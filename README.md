@@ -1,6 +1,6 @@
-# BasicCAD
+# BasicCAD Journal
 
-We are creating a caster.
+## Sam Funk
 
 ---
 ## Table of Contents
@@ -19,7 +19,7 @@ We are creating a caster.
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
 ### Evidence
-[The Base in Onshape]()
+[Castor Onshape Document](https://cvilleschools.onshape.com/documents/5aa391eca7bc241b822299c0/w/1baa1d3840cea60709942087/e/860635ff4679e140264c4e3d)
 
 ### Image
 
@@ -27,14 +27,11 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+While completing this part I learned how to:
+* sketch
+* extrude/remove
+* use linear patterns
+* use dimensions
 
 ---
 
