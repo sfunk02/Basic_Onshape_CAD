@@ -23,7 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="images/CastorBase" alt="Base" width="200">
+<img src="images/CastorBase.png" alt="Base" width="200">
 
 ### Reflection
 
