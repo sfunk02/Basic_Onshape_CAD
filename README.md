@@ -63,11 +63,22 @@ While completing this part I learned how to:
 
 ### Description
 
+The third assignment is to create the caster fork. The fork is an 80mm circle with a 60mm shaft on one side and two 75mm tabs on the other. The two tabs have a 10mm hole through them for the axle to pass through.
+
 ### Evidence
+
+[Castor Onshape Document](https://cvilleschools.onshape.com/documents/5aa391eca7bc241b822299c0/w/1baa1d3840cea60709942087/e/1b707da0b9ad8629b73c418e)
 
 ### Image
 
+<img src="images/castorFork.png" alt="Fork" width="200">
+
 ### Reflection
+
+While completing this part I learned how to:
+* use fillets
+* use chamfers
+* extrude a hollow cylinder 
 
 ---
 
