@@ -87,11 +87,23 @@ While completing this part I learned how to:
 
 ### Description
 
+The fourth assignment is to create the caster tire. The tire is a trapezoid revolved around a central axis to create a loop. The edges are broken using the fillet tool.
+
 ### Evidence
+
+[Castor Onshape Document](https://cvilleschools.onshape.com/documents/5aa391eca7bc241b822299c0/w/1baa1d3840cea60709942087/e/473ad4590c6f2f3fd6d4da69)
 
 ### Image
 
+<img src="images/castorTire.png" alt="Tire" width="200">
+
 ### Reflection
+
+While completing this part I learned how to:
+* draw a diameter dimension
+* make a sketch symmetrical
+* make an angled dimension
+* use the revolve feature
 
 ---
 
