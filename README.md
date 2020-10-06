@@ -112,11 +112,22 @@ While completing this part I learned how to:
 
 ### Description
 
+The fifth assignment is to create the caster wheel. It is a simple sketch revolved around an axis with five cutouts. It must fit perfectly inside the tire.
+
 ### Evidence
+
+[Castor Onshape Document](https://cvilleschools.onshape.com/documents/5aa391eca7bc241b822299c0/w/1baa1d3840cea60709942087/e/473ad4590c6f2f3fd6d4da69)
 
 ### Image
 
+<img src="images/castorWheel.png" alt="Wheel" width="200">
+
 ### Reflection
+
+While completing this part I learned how to:
+* use a circular pattern
+* make two parts in one studio
+* use arcs
 
 ---
 
