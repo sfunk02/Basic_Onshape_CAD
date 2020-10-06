@@ -10,7 +10,7 @@
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
+* [AxleCollarBearingsWasher](#AxleCollarBearingsWasher)
 
 ## Base
 
