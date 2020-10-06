@@ -132,12 +132,24 @@ While completing this part I learned how to:
 ---
 
 
-## AxleCollarBearings
+## AxleCollarBearingsWasher
 
 ### Description
 
+The last four parts are the axle, collar, bearing, and washer. The axle and collar were created together in one parts studio, the bearing was extruded from the wheel, and the washer was created separately.
+
 ### Evidence
+
+[Castor Onshape Document](https://cvilleschools.onshape.com/documents/5aa391eca7bc241b822299c0/w/1baa1d3840cea60709942087/e/473ad4590c6f2f3fd6d4da69)
 
 ### Image
 
+<img src="images/castorAxleCollar.png" alt="Wheel" width="200">
+<img src="images/castorBearing.png" alt="Wheel" width="200">
+<img src="images/castorWasher.png" alt="Wheel" width="200">
+
 ### Reflection
+
+While completing this part I learned how to:
+* extrude symmetrically
+* use geometry from other sketches
