@@ -144,9 +144,9 @@ The last four parts are the axle, collar, bearing, and washer. The axle and coll
 
 ### Image
 
-<img src="images/castorAxleCollar.png" alt="Wheel" width="200">
-<img src="images/castorBearing.png" alt="Wheel" width="200">
-<img src="images/castorWasher.png" alt="Wheel" width="200">
+<img src="images/castorAxleCollar.png" alt="AxleCollar" width="200">
+<img src="images/castorBearing.png" alt="Bearing" width="200">
+<img src="images/castorWasher.png" alt="Washer" width="200">
 
 ### Reflection
 
