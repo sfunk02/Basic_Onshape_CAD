@@ -169,7 +169,7 @@ The lower sub-assembly for the castor contains the wheel, tire, axle, and two be
 
 ### Images
 
-<img src="images/WheelAssembly.png" alt="WheelAssembly" width="200">
+<img src="images/wheelAssembly.png" alt="WheelAssembly" width="200">
 
 ### Reflection
 
