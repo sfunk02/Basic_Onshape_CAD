@@ -11,6 +11,7 @@
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearingsWasher](#AxleCollarBearingsWasher)
+* [WheelAssembly](#WheelAssembly)
 
 ## Base
 
@@ -153,3 +154,26 @@ The last four parts are the axle, collar, bearing, and washer. The axle and coll
 While completing this part I learned how to:
 * extrude symmetrically
 * use geometry from other sketches
+
+---
+
+## WheelAssembly
+
+### Description
+
+The lower sub-assembly for the castor contains the wheel, tire, axle, and two bearings. It uses fastened mates and revolute mates to allow for motion.
+
+### Evidence
+
+[Castor Onshape Document](https://cvilleschools.onshape.com/documents/5aa391eca7bc241b822299c0/w/1baa1d3840cea60709942087/e/30392e3f8be3ef84ae923f07)
+
+### Images
+
+<img src="images/WheelAssembly.png" alt="WheelAssembly" width="200">
+
+### Reflection
+
+While completing this assembly I learned how to:
+* make an assembly
+* use fastened mates
+* use revolute mates
