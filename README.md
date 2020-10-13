@@ -12,6 +12,7 @@
 * [Wheel](#Wheel)
 * [AxleCollarBearingsWasher](#AxleCollarBearingsWasher)
 * [WheelAssembly](#WheelAssembly)
+* [FinalCastorAssembly](#FinalCastorAssembly)
 
 ## Base
 
