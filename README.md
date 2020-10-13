@@ -177,3 +177,25 @@ While completing this assembly I learned how to:
 * make an assembly
 * use fastened mates
 * use revolute mates
+
+---
+
+## FinalCastorAssembly
+
+### Description
+
+The final assembly for the castor includes every part that I made during this project. It is put together using fastened and revolute mates.
+
+### Evidence
+
+[Castor Onshape Document]()
+
+### Images
+
+<img src="images/castorFinalAssembly.png" alt="CastorFinalAssembly" width="200">
+
+### Reflection
+
+While completing this assembly I learned how to:
+* drop a sub-assembly into an assembly
+* use standard parts such as nuts and bolts
