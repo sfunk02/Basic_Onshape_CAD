@@ -13,6 +13,7 @@
 * [AxleCollarBearingsWasher](#AxleCollarBearingsWasher)
 * [WheelAssembly](#WheelAssembly)
 * [FinalCastorAssembly](#FinalCastorAssembly)
+* [DorothyDowelPinsAndPictureFrame](#DorothyDowelPinsAndPictureFrame)
 
 ## Base
 
@@ -200,3 +201,26 @@ The final assembly for the castor includes every part that I made during this pr
 While completing this assembly I learned how to:
 * drop a sub-assembly into an assembly
 * use standard parts such as nuts and bolts
+
+---
+
+## DorothyDowelPinsAndPictureFrame
+
+### Description
+
+
+
+### Evidence
+
+[Dowel Pins Onshape Document]()
+
+### Images
+
+
+
+### Reflection
+
+While completing these parts I learned how to:
+* make a configuration
+* switch between different configurations
+* use different configurations in an assembly
