@@ -208,15 +208,15 @@ While completing this assembly I learned how to:
 
 ### Description
 
-
+For this assignment, I had to create 16 configurations of a dowel pin with varying length and diameter. I then had to create a picture frame and use the dowel configurations to assemble it.
 
 ### Evidence
 
-[Dowel Pins Onshape Document]()
+[Dowel Pins Onshape Document](https://cvilleschools.onshape.com/documents/73ed09f54155a6f25b0e8e21/w/e35338c410441ddff3bd74e6/e/4ff96d64cf223d70a5610870)
 
 ### Images
 
-
+<img src="images/dowelPin.png" alt="DowelPin" width="200"><img src="images/pictureFrame.png" alt="PictureFrame" width="200">
 
 ### Reflection
 
